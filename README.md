@@ -6,7 +6,7 @@
 
 ###
 
-###
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -21,7 +21,7 @@
     src="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
