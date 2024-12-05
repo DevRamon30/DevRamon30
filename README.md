@@ -1,28 +1,19 @@
 <h2 align="left">Olá👋! Me chamo Vitor Ramon, vamos nos conectar! 🧑‍💻</h2>
 
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAd/cat-computer.gif"  />
-
-###
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+ <div>
+  <a href="https://github.com/DevRamon30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRamon30&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRamon30&layout=compact&langs_count=16&theme=shades-of-purple"/>
+</div>
 
 
+
+
+
+
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -32,10 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+ </div>
 
-###
+
+
 
 <div align="left">
   <a href="https://www.instagram.com/vitor_ramoon/" target="_blank">
@@ -50,7 +42,23 @@
   <a href="https://www.linkedin.com/in/vitor-ramon-7b9877110/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/DevRamon30/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+  
 </div>
+
 
 
 ###
