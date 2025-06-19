@@ -1,4 +1,8 @@
-<h2 align="left">Olá👋! Me chamo Vitor Ramon, vamos nos conectar! 🧑‍💻</h2>
+<h2 align="left">Olá, eu sou Vitor Ramon! 👋</h2>
+
+## 🚀 Sobre mim
+Formado em administração, mas estou em transição de carreira para área de tecnologia que é minha paixão, atualmente stou gostando de aprender Python e quero investir na área de CyberSecurity. 🧑🏻‍💻
+<br>
 
 
 
@@ -13,7 +17,7 @@
 
 
 
-##
+## 🛠 Habilidades
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -22,11 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="javascript logo"/>
  </div>
 
 
 
-
+## 🔗 Minha Redes
 <div align="left">
   <a href="https://www.instagram.com/vitor_ramoon/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
